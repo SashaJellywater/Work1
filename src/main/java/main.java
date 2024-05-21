@@ -26,7 +26,7 @@ public class main {
         libraryItems.add(new Newspaper(11, "Комсомольская правда", "2024"));
         libraryItems.add(new Newspaper(12, "Аргументы и факты", "2024"));
 
-        // Создание экземпляров видеофильмов
+        // Добавление видеофильмов
         libraryItems.add(new VideoFilm(13, "Хроники города Питера", "Реж. Алексей Смирнов"));
         libraryItems.add(new VideoFilm(14, "Великая Отечественная война. Документальные хроники", "Реж. Иван Петров"));
         libraryItems.add(new VideoFilm(15, "История образования в России", "Реж. Екатерина Иванова"));
